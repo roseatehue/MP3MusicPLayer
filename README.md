@@ -61,6 +61,7 @@ Clone the repository:
 ```bash
    git clone https://github.com/yourusername/music-playlist-manager.git
    cd music-playlist-manager
+```
 
 Add the downloaded .jar files to the project's lib directory or classpath.
 
