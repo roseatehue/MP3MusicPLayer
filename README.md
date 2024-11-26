@@ -58,10 +58,10 @@ jaudiotagger
 ### Steps:
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/music-playlist-manager.git
-cd music-playlist-manager
+```bash
+   git clone https://github.com/yourusername/music-playlist-manager.git
+   cd music-playlist-manager
+
 Add the downloaded .jar files to the project's lib directory or classpath.
 
 Compile and run the project using your IDE or command line.
