@@ -13,12 +13,16 @@ Intuitive design powered by Java Swing.
 
 ## Technologies Used 🛠️
 Java Swing: For the graphical user interface.
+
 Java Audio Libraries:
+
 JLayer
 mp3agic
 jaudiotagger
 Used for audio playback and metadata extraction.
+
 Multithreading: Ensures smooth playback alongside other tasks.
+
 File I/O: Saves and loads playlists for future use.
 ## Project Structure 📂
 ### 1. Song Class
